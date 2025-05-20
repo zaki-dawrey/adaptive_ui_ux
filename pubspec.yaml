@@ -1,6 +1,8 @@
 name: adaptive_ui_ux
 description: "A Flutter package for adaptive UX that adjusts layout based on user interaction patterns."
 version: 0.0.1
+homepage: https://github.com/zaki-dawrey/adaptive_ui_ux.git
+repository: https://github.com/zaki-dawrey/adaptive_ui_ux.git
 license: MIT
 
 environment:
