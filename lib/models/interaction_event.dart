@@ -1,4 +1,3 @@
-
 /// Represents the type of interaction a user has with a widget
 enum InteractionType {
   tap,
